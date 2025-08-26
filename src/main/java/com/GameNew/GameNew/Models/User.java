@@ -1,6 +1,6 @@
 package com.GameNew.GameNew.Models;
 
-import lombok.*;
+
 
 //@Setter
 //@Getter
